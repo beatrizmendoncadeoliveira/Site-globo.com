@@ -1,0 +1,49 @@
+#esquerda h1{
+	color:green;
+	font-size:60px;
+}
+	#esquerda p{
+		color:green;
+		font-size:20px;
+	}
+	
+	#esquerda2{
+		color:green;
+		font-size:20px;
+		float:left;
+	}
+	
+	#esquerda3{
+		color:green;
+		font-size:20px;
+		float:left;
+	}
+	#esquerda4{
+		color:green;
+	font-size:20px;}
+	
+	#direita{
+		font-size:20px;
+		color:orange;
+		float:right;
+	}
+		#direita2{
+			font-size:20px;
+		color:red;
+		float:right;
+		}
+		
+		#direita3{
+			font-size:20px;
+		color:orange;
+		float:right;
+		
+		
+		}
+		#direita4{
+			font-size:20px;
+		color:red;
+		
+		
+		}
+			
